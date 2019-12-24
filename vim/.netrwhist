@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/clanier/malloc/includes'
+let g:netrw_dirhist_2='/Users/clanier/asm/libasm/unit_srcs'
+let g:netrw_dirhist_3='/Users/clanier/jib/jib_android_app/gradle'
+let g:netrw_dirhist_4='/Users/clanier/jib-smart-home/Pods/Microfutures'
+let g:netrw_dirhist_5='/Users/clanier/jib-smart-home/Pods/Microfutures/Microfutures'
+let g:netrw_dirhist_6='/Users/clanier/jib-smart-home/Pods/Microfutures/Microfutures/Classes'
+let g:netrw_dirhist_7='/Users/clanier/Desktop/apps/Terraria.app'
+let g:netrw_dirhist_8='/Users/clanier/jib-smart-home'
+let g:netrw_dirhist_9='/Users/clanier/famine/srcs'
